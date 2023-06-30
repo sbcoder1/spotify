@@ -1,0 +1,312 @@
+body
+{
+	background:cover;
+}
+
+#box1
+{
+	width: 700px;
+	height: 780px;
+	background-color:whitesmoke;
+	position: absolute;
+	left: 24%;
+	border-radius:3% ;
+	
+}
+
+#box1 h1
+{
+	font-family: cursive;
+	position: absolute;
+	left:12%;
+	top:13%;
+}
+
+.img1
+{
+	position: absolute;
+	left: 35%;
+	top:5%;
+	width: 200px;
+	height: 60px;
+
+}
+
+/* Social ICON FACEBOOK GOOGLE ......................................................*/
+.face
+{
+	border-radius: 10px;
+	width:400px;
+	height: 43px;
+	position: absolute;
+    left:22%;
+	top:23%;
+	background-color:	#4267B2;
+	color:white;
+	font-family: cursive;
+	font-size:15px ;
+
+}
+
+.face:hover
+{
+	width:400px;
+	height: 46px;
+
+}
+
+.iface
+{
+	position: absolute;
+	top:28.4%;
+	left:41%;
+
+}
+
+.google
+{
+	border-radius: 10px;
+	width:400px;
+	height: 43px;
+	position: absolute;
+    left:22%;
+	top:30%;
+	color:black;
+	font-family: cursive;
+	font-size:16px ;
+
+}
+
+.google:hover
+{
+	width:400px;
+	height: 45px;
+
+}
+
+.igoogle
+{
+	width: 40px;
+	position: absolute;
+	top:37.4%;
+	left:41.3%;
+
+}
+
+/*----------text Field-------------------*/
+
+.t1
+{
+	color: black;
+    width:420px;
+    position: absolute;
+    height: 30px;
+    position: absolute;
+    top: 53%;
+    left:34.7%;
+      font-family: cursive;
+    font-weight: bold;
+
+}
+
+#textbox p1
+{
+  font-family: cursive;
+  position: absolute;
+  top: 49%;
+  left:34.6%;
+  font-size: 14px;
+  font-weight: bold;   
+}
+
+#textbox p0
+{
+	color: gray;
+	position: absolute;
+	top:45%;
+	left:32%;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+.t2
+{
+	color: black;
+    width:420px;
+    position: absolute;
+    height: 30px;
+    position: absolute;
+    top: 63%;
+    left:34.7%;
+    font-family: cursive;
+    font-weight: bold;
+
+}
+
+#textbox p2
+{
+  font-family: cursive;
+  position: absolute;
+  top: 60%;
+  left:34.6%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.t3
+{
+	color: black;
+    width:420px;
+    position: absolute;
+    height: 30px;
+    position: absolute;
+    top: 73%;
+    left:34.7%;
+      font-family: cursive;
+    font-weight: bold;
+
+}
+
+#textbox p3
+{
+  font-family: cursive;
+  position: absolute;
+  top: 70%;
+  left:34.6%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.t4
+{
+	color: black;
+    width:420px;
+    position: absolute;
+    height: 30px;
+    position: absolute;
+    top: 85%;
+    left:34.7%;
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+#textbox p4
+{
+  font-family: cursive;
+  position: absolute;
+  top: 82%;
+  left:34.6%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#textbox p5
+{
+  font-family: cursive;
+  position: absolute;
+  top: 92%;
+  left:34.6%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/*--------------RADIO BTN----------------*/
+.r1
+{
+  position: absolute;
+  top: 96%;
+  left:34.6%;
+}
+
+label1
+{
+  position: absolute;
+  top: 95.8%;
+  left:36.6%;
+  font-family: cursive;
+  font-weight: bold;
+
+}
+
+.r2
+{
+  position: absolute;
+  top: 96%;
+  left:42.6%;
+}
+
+label2
+{
+  position: absolute;
+  top: 95.8%;
+  left:44.6%;
+  font-family: cursive;
+  font-weight: bold;
+
+}
+
+.r3
+{
+  position: absolute;
+  top: 96%;
+  left:52.6%;
+}
+
+label3
+{
+  position: absolute;
+  top: 95.8%;
+  left:54.6%;
+  font-family: cursive;
+  font-weight: bold;
+
+}
+
+/*-------------------TERM LINE--------------*/
+p6
+{
+  position: absolute;
+  top: 101.8%;
+  left:33.6%;
+  font-family: cursive;
+  font-size: 14px;
+  color: black;
+
+}
+
+p7
+{
+  position: absolute;
+  top: 101.8%;
+  left:54.9%;
+  font-family: cursive;
+  font-size: 14px;
+  color: green;
+
+}
+
+/*-------------BUTTON---------------*/
+
+.btn1
+{
+	width: 200px;
+	height: 40px;
+   position: absolute;
+  top: 110.8%;
+  left:43%;
+  font-family: cursive;
+  border-radius: 30px;
+  background-color: limegreen;
+  font-family: cursive;
+  font-weight: bold;
+  border-style: solid;
+}
+
+.btn1:hover
+{
+	background-color: lightgreen;
+	transition: 1s;
+}
